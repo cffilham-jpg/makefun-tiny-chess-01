@@ -1,6 +1,10 @@
 # Tiny chess
 
-An original deterministic Python chess engine built for make.fun tiny-chess-01.
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/cffilham-jpg/makefun-tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/cffilham-jpg/makefun-tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
+An original deterministic Python chess engine built for the [tiny-chess-01 bounty](https://make.fun/bounty/tiny-chess-01) on make.fun.
 MIT licensed. No dependencies or model calls.
 
 `main.py` is the complete entry, generated from readable `engine.py` with the
